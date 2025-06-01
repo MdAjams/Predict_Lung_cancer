@@ -30,17 +30,17 @@ This heatmap shows the correlation between various features in the dataset.
 
 ### 📊 Distribution Plots
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](images/age_distribution_lung_cancer.png)
 
 This histogram illustrates the distribution of ages in the dataset.
 
-![Pairplot](images/pairplot.png)
+![Pairplot](images/pairplot_lung_cancer.png)
 
 This pairplot visualizes relationships between selected features.
 
 ### ⚖️ Class Balance
 
-![Class Balance](images/class_balance.png)
+![Class Balance](images/gender_vs_lung_cancer.png)
 
 This count plot shows the distribution of the target variable, indicating class balance.
 
