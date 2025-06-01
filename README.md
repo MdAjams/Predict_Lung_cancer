@@ -1,6 +1,6 @@
 # 🫁 Lung Cancer Prediction App
 
-![Streamlit App Screenshot](https://raw.githubusercontent.com/MdAjams/Predict_Lung_cancer/main/assets/demo.png)
+![Lung Cancer Prediction](images/Lungs.jpg)
 
 ## 🔍 Project Overview
 
