@@ -22,7 +22,7 @@ data = load_data()
 model = load_model()
 
 # Streamlit sidebar with logo
-st.sidebar.image("Background.jpeg", width=300)
+st.sidebar.image("images/Background.jpeg", width=300)
 
 # Sidebar: Patient Input
 st.sidebar.header("📋 Patient Information")
@@ -64,7 +64,7 @@ if st.sidebar.button("🔍 Predict"):
 # Main Title
 st.title("🚭 Lung Cancer Prediction Dashboard")
 # Background image
-st.image("Lungs.jpg", caption="Lung Cancer Prediction", use_column_width=True)
+st.image("images/Lungs.jpg", caption="Lung Cancer Prediction", use_column_width=True)
 
 # Key Stats (Mock Data)
 st.subheader("📈 Key Program Statistics")
