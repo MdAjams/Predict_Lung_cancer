@@ -1,6 +1,6 @@
 # 🫁 Lung Cancer Prediction App
 
-![Lung Cancer Prediction](images/Lungs.jpg)
+![ 🫁 Lung Cancer Prediction](images/Lungs.jpg)
 
 ## 🔍 Project Overview
 
@@ -39,11 +39,6 @@ This histogram illustrates the distribution of ages in the dataset.
 
 This pairplot visualizes relationships between selected features.
 
-### ⚖️ Class Balance
-
-![Class Balance](images/gender_vs_lung_cancer.png)
-
-This count plot shows the distribution of the target variable, indicating class balance.
 
 
 ### 3. 🤖 Model Training
