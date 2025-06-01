@@ -20,10 +20,30 @@ This project is a **Machine Learning-powered web app** that predicts the likelih
 - Label encoding for categorical features
 - Feature scaling using `StandardScaler`
 
-### 2. 📈 Exploratory Data Analysis (EDA)
-- Correlation heatmaps
-- Distribution plots (histograms, pairplots)
-- Class balance visualization
+## 📈 Exploratory Data Analysis (EDA)
+
+### 🔥 Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+This heatmap shows the correlation between various features in the dataset.
+
+### 📊 Distribution Plots
+
+![Age Distribution](images/age_distribution.png)
+
+This histogram illustrates the distribution of ages in the dataset.
+
+![Pairplot](images/pairplot.png)
+
+This pairplot visualizes relationships between selected features.
+
+### ⚖️ Class Balance
+
+![Class Balance](images/class_balance.png)
+
+This count plot shows the distribution of the target variable, indicating class balance.
+
 
 ### 3. 🤖 Model Training
 - Models used:
